@@ -23,7 +23,7 @@ var Nav = () => {
       </div>
       <div className="top-bar-right">
         <ul className="menu">
-          <li className="menu-text">Created By <a href="http://cyborg.ai" target="_blank">Vin Lux</a>
+          <li className="menu-text">Created By <a href="http://cyborg.ai" target="_blank">Kevin Michael</a>
           </li>
         </ul>
       </div>
